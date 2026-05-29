@@ -1,0 +1,157 @@
+Here is the raw code. Just click the **"Copy"** button at the top right of the code block below to copy it directly, or select all the text inside the box.
+
+```markdown
+<div align="center">
+
+  <!-- HERO BANNER -->
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,30:1a1a2e,60:FFB800,100:FFE066&height=280&section=header&text=LFEE%20DESHWAL&fontSize=72&fontColor=FFB800&fontAlignY=42&desc=ML%20ENGINEER%20%F0%9F%A4%96%20AI%20SYSTEMS%20%F0%9F%A4%96%20CLOUD%20DEPLOYMENT&descAlignY=65&descSize=20&descColor=FFE066&animation=wave&fontAlign=50&stroke=FFB800&strokeWidth=2" width="100%"/>
+
+  <!-- TYPING ANIMATION -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=700&color=FFB800&center=true&vCenter=true&width=840&lines=%E2%96%B6%20Building%20AI%20that%20Actually%20Works;%E2%96%B6%20End-to-End%20ML%20%7C%20Data%20Ingestion%20to%20AWS%20Deployment;%E2%96%B6%20Oracle%20Triple%20Cloud%20AI%20Certified;%E2%96%B6%2094.3%25%20Best%20Model%20Accuracy%20%F0%9F%8E%AF" alt="Typing SVG"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- SOCIAL LINKS -->
+  <a href="https://linkedin.com/in/lfee-deshwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="https://github.com/lfee123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
+  <a href="mailto:deshwallfee@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://lfee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-FFB800?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+
+  <br/><br/>
+
+  <!-- DYNAMIC STATS -->
+  <img src="https://img.shields.io/badge/%F0%9F%8E%93_B.Tech_CSE-LPU_·_CGPA_7.43-1a1a2e?style=flat-square&labelColor=FFB800&color=0a0a1a"/>  
+  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Best_Accuracy-94.3%25-1a1a2e?style=flat-square&labelColor=22C55E&color=0a0a1a"/>  
+  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_Oracle_Certified-AI_·_GenAI_·_OCI-1a1a2e?style=flat-square&labelColor=F80000&color=0a0a1a"/>  
+  <img src="https://img.shields.io/badge/%E2%9A%A1_DSA_Solved-300%2B_Problems-1a1a2e?style=flat-square&labelColor=3B82F6&color=0a0a1a"/>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=lfee123&style=for-the-badge&color=FFB800&label=PROFILE+VIEWS" alt="Views"/>
+
+</div>
+
+<br/>
+
+<!-- TECH STACK -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=TECH%20STACK%20%26%20EXPERTISE&fontSize=28&fontColor=FFB800&animation=fadeIn" width="100%"/>
+</div>
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <br/>
+  <!-- ML / AI -->
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <br/>
+  <!-- Data & Deployment -->
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=FEATURED%20PROJECTS&fontSize=28&fontColor=FFB800&animation=fadeIn" width="100%"/>
+</div>
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+  <h3>🔍 Fake Profile Detection</h3>
+  <p><strong>ML Classification System</strong></p>
+  <p>Python • Scikit-learn • Pandas • Matplotlib</p>
+  <p>Random Forest Classifier with full preprocessing pipeline, feature engineering, cross-validation, and optimized misclassification analysis.</p>
+  <img src="https://img.shields.io/badge/Accuracy-94.3%25-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Eval-ROC--AUC-blue?style=flat-square"/>
+  <br/><br/>
+  <a href="https://github.com/lfee123/Fake-Profile-Detection"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+<td width="50%" align="center" valign="top">
+  <h3>⌨️ Next Word Prediction</h3>
+  <p><strong>LSTM NLP Architecture</strong></p>
+  <p>Python • TensorFlow • Keras • NumPy</p>
+  <p>LSTM-based sequence prediction model. End-to-end pipeline from tokenization & padding to sparse categorical crossentropy training. Architected for AWS EC2.</p>
+  <img src="https://img.shields.io/badge/Architecture-LSTM-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Deployment-AWS_Ready-red?style=flat-square"/>
+  <br/><br/>
+  <a href="https://github.com/lfee123/Next-Word-Prediction"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- LEADERSHIP & EXPERIENCE -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=LEADERSHIP%20%26%20EXPERIENCE&fontSize=28&fontColor=FFB800" width="100%"/>
+</div>
+
+🚀 **Sponsorship & Branding Lead** @ Prompt Builder 2025 (AWS Hackathon) • *Feb 2025*  
+🌐 **External Affairs Head** @ Vibranta • *Dec 2024*  
+🎙️ **Felicitation & Coordination Head** @ Webathon • *Oct 2024*
+
+<br/>
+
+<!-- EDUCATION & JOURNEY -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=EDUCATION%20%26%20JOURNEY&fontSize=28&fontColor=FFB800" width="100%"/>
+</div>
+
+**B.Tech Computer Science & Engineering**  
+Lovely Professional University, Punjab (Aug 2023 – Present) • **CGPA: 7.43**  
+Specialising in ML, AI, and software engineering — focused on building deployable, real-world systems.
+
+<br/>
+
+<!-- CERTIFICATIONS -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=CERTIFICATIONS%20%26%20ACHIEVEMENTS&fontSize=28&fontColor=FFB800" width="100%"/>
+</div>
+
+• ☁️ **Oracle Cloud Infrastructure – AI Foundations Associate** (Aug 2025)  
+• 🤖 **Oracle Cloud Infrastructure – Generative AI Professional** (Aug 2025)  
+• 🏗️ **Oracle Cloud Infrastructure – Foundations Associate** (Aug 2025)  
+• 📊 **Kaggle Certified – Python, Pandas & Data Visualization** (Aug–Sep 2025)  
+• 🧮 **Mastering Data Structures & Algorithms – Centre for Professional Enhancement** (Jun–Jul 2025)
+
+<br/>
+
+<!-- GITHUB STATS (TRANSPARENT FOR DARK/LIGHT MODE ADAPTABILITY) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFB800" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lfee123&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&text_color=8B949E&icon_color=FFB800&ring_color=FFB800" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfee123&theme=transparent&hide_border=true&stroke=00000000&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=8B949E&dates=8B949E" height="180"/>
+</div>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lfee123&theme=react-dark&bg_color=00000000&color=FFB800&line=FFB800&point=FFE066&area=true&area_color=FFB80030&hide_border=true" width="100%"/>
+
+<br/>
+
+<!-- CONNECT FOOTER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFB80010,50:1a1a2e,100:0a0a1a&height=140&section=footer&text=LET'S%20BUILD%20SOMETHING%20INTELLIGENT&fontSize=26&fontColor=FFB800&animation=wave" width="100%"/>
+  
+  <a href="https://linkedin.com/in/lfee-deshwal"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
+  <a href="mailto:deshwallfee@gmail.com"><img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
+  <a href="https://lfee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FFB800?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  
+  <br/><br/>
+  <i>Built with precision · Powered by curiosity ☕</i>
+  <br/>
+  <sub>© 2026 Lfee Deshwal. All rights reserved.</sub>
+</div>
+```
