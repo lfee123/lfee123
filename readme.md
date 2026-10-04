@@ -1,5 +1,3 @@
-&#x20;\<div align="center">
-
 # LFEE DESHWAL
 
 ### AI/ML Engineer | Generative AI | Backend Developer
