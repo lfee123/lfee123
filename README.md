@@ -1,4 +1,3 @@
-```markdown
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0d1117,45:141d33,100:8a6d1f&section=header&text=LFEE%20DESHWAL&fontSize=54&fontColor=e3b341&fontAlignY=32&animation=fadeIn" alt="Lfee Deshwal — AI/ML Engineer"/>
 
 <p align="center">
@@ -186,4 +185,3 @@ B.Tech in Computer Science & Engineering · **CGPA 7.43** · Aug 2023 – Presen
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:8a6d1f,55:141d33,100:0d1117&section=footer" alt="Footer wave"/>
-```
