@@ -1,155 +1,164 @@
+&#x20;\<div align="center">
 
-<div align="center">
+# LFEE DESHWAL
 
-  <!-- HERO BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a0a1a,30:1a1a2e,60:FFB800,100:FFE066&height=280&section=header&text=LFEE%20DESHWAL&fontSize=72&fontColor=FFB800&fontAlignY=42&desc=ML%20ENGINEER%20%F0%9F%A4%96%20AI%20SYSTEMS%20%F0%9F%A4%96%20CLOUD%20DEPLOYMENT&descAlignY=65&descSize=20&descColor=FFE066&animation=wave&fontAlign=50&stroke=FFB800&strokeWidth=2" width="100%"/>
+### AI/ML Engineer | Generative AI | Backend Developer
 
-  <!-- TYPING ANIMATION -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&duration=2500&pause=700&color=FFB800&center=true&vCenter=true&width=840&lines=%E2%96%B6%20Building%20AI%20that%20Actually%20Works;%E2%96%B6%20End-to-End%20ML%20%7C%20Data%20Ingestion%20to%20AWS%20Deployment;%E2%96%B6%20Oracle%20Triple%20Cloud%20AI%20Certified;%E2%96%B6%2094.3%25%20Best%20Model%20Accuracy%20%F0%9F%8E%AF" alt="Typing SVG"/>
-  </a>
+**Building intelligent applications with Machine Learning, LLMs & Cloud Technologies**
 
-  <br/><br/>
+[LinkedIn](https://linkedin.com/in/lfee-deshwal) · [Portfolio](https://lfee.vercel.app) · [Email](mailto\:deshwallfee@gmail.com) · [GitHub](https://github.com/lfee123)
 
-  <!-- SOCIAL LINKS -->
-  <a href="https://linkedin.com/in/lfee-deshwal"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="https://github.com/lfee123"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="mailto:deshwallfee@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://lfee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Explore-FFB800?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+\<img src="[https://komarev.com/ghpvc/?username=lfee123&style=flat&color=64748b&label=Profile+Views](https://komarev.com/ghpvc/?username=lfee123\&style=flat\&color=64748b\&label=Profile+Views)" alt="Profile Views"/>
 
-  <br/><br/>
+\</div>
 
-  <!-- DYNAMIC STATS -->
-  <img src="https://img.shields.io/badge/%F0%9F%8E%93_B.Tech_CSE-LPU_·_CGPA_7.43-1a1a2e?style=flat-square&labelColor=FFB800&color=0a0a1a"/>  
-  <img src="https://img.shields.io/badge/%F0%9F%8E%AF_Best_Accuracy-94.3%25-1a1a2e?style=flat-square&labelColor=22C55E&color=0a0a1a"/>  
-  <img src="https://img.shields.io/badge/%E2%98%81%EF%B8%8F_Oracle_Certified-AI_·_GenAI_·_OCI-1a1a2e?style=flat-square&labelColor=F80000&color=0a0a1a"/>  
-  <img src="https://img.shields.io/badge/%E2%9A%A1_DSA_Solved-300%2B_Problems-1a1a2e?style=flat-square&labelColor=3B82F6&color=0a0a1a"/>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=lfee123&style=for-the-badge&color=FFB800&label=PROFILE+VIEWS" alt="Views"/>
+---
 
-</div>
+## About Me
 
-<br/>
+I'm a Computer Science and Engineering student passionate about Artificial Intelligence, Machine Learning, and Backend Development. I enjoy building end-to-end AI applications, developing intelligent systems, and turning ideas into practical solutions.
 
-<!-- TECH STACK -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=TECH%20STACK%20%26%20EXPERTISE&fontSize=28&fontColor=FFB800&animation=fadeIn" width="100%"/>
-</div>
+- 🎓 B.Tech CSE @ Lovely Professional University
+- 🤖 Focused on Machine Learning, NLP, Computer Vision & Generative AI
+- ⚙️ Experienced in Python, FastAPI, PyTorch & LangChain
+- ☁️ Exploring AWS, Oracle Cloud & AI deployment
+- 🚀 Interested in building scalable, real-world software solutions
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <br/>
-  <!-- ML / AI -->
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-  <br/>
-  <!-- Data & Deployment -->
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-</p>
+## Tech Stack
 
-<br/>
+**Languages**
 
-<!-- FEATURED PROJECTS -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=FEATURED%20PROJECTS&fontSize=28&fontColor=FFB800&animation=fadeIn" width="100%"/>
-</div>
 
-<table>
-<tr>
-<td width="50%" align="center" valign="top">
-  <h3>🔍 Fake Profile Detection</h3>
-  <p><strong>ML Classification System</strong></p>
-  <p>Python • Scikit-learn • Pandas • Matplotlib</p>
-  <p>Random Forest Classifier with full preprocessing pipeline, feature engineering, cross-validation, and optimized misclassification analysis.</p>
-  <img src="https://img.shields.io/badge/Accuracy-94.3%25-brightgreen?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Eval-ROC--AUC-blue?style=flat-square"/>
-  <br/><br/>
-  <a href="https://github.com/lfee123/Fake-Profile-Detection"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-<td width="50%" align="center" valign="top">
-  <h3>⌨️ Next Word Prediction</h3>
-  <p><strong>LSTM NLP Architecture</strong></p>
-  <p>Python • TensorFlow • Keras • NumPy</p>
-  <p>LSTM-based sequence prediction model. End-to-end pipeline from tokenization & padding to sparse categorical crossentropy training. Architected for AWS EC2.</p>
-  <img src="https://img.shields.io/badge/Architecture-LSTM-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Deployment-AWS_Ready-red?style=flat-square"/>
-  <br/><br/>
-  <a href="https://github.com/lfee123/Next-Word-Prediction"><img src="https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</td>
-</tr>
-</table>
 
-<br/>
+\
 
-<!-- LEADERSHIP & EXPERIENCE -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=LEADERSHIP%20%26%20EXPERIENCE&fontSize=28&fontColor=FFB800" width="100%"/>
-</div>
 
-🚀 **Sponsorship & Branding Lead** @ Prompt Builder 2025 (AWS Hackathon) • *Feb 2025*  
-🌐 **External Affairs Head** @ Vibranta • *Dec 2024*  
-🎙️ **Felicitation & Coordination Head** @ Webathon • *Oct 2024*
+**AI / Machine Learning**
 
-<br/>
 
-<!-- EDUCATION & JOURNEY -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=EDUCATION%20%26%20JOURNEY&fontSize=28&fontColor=FFB800" width="100%"/>
-</div>
 
-**B.Tech Computer Science & Engineering**  
-Lovely Professional University, Punjab (Aug 2023 – Present) • **CGPA: 7.43**  
-Specialising in ML, AI, and software engineering — focused on building deployable, real-world systems.
 
-<br/>
 
-<!-- CERTIFICATIONS -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=CERTIFICATIONS%20%26%20ACHIEVEMENTS&fontSize=28&fontColor=FFB800" width="100%"/>
-</div>
 
-• ☁️ **Oracle Cloud Infrastructure – AI Foundations Associate** (Aug 2025)  
-• 🤖 **Oracle Cloud Infrastructure – Generative AI Professional** (Aug 2025)  
-• 🏗️ **Oracle Cloud Infrastructure – Foundations Associate** (Aug 2025)  
-• 📊 **Kaggle Certified – Python, Pandas & Data Visualization** (Aug–Sep 2025)  
-• 🧮 **Mastering Data Structures & Algorithms – Centre for Professional Enhancement** (Jun–Jul 2025)
 
-<br/>
+\
 
-<!-- GITHUB STATS (TRANSPARENT FOR DARK/LIGHT MODE ADAPTABILITY) -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1a2e&height=80&text=GITHUB%20ANALYTICS&fontSize=28&fontColor=FFB800" width="100%"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lfee123&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&text_color=8B949E&icon_color=FFB800&ring_color=FFB800" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lfee123&theme=transparent&hide_border=true&stroke=00000000&ring=FFB800&fire=FFB800&currStreakLabel=FFB800&sideLabels=8B949E&dates=8B949E" height="180"/>
-</div>
+**Backend, Databases & Tools**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=lfee123&theme=react-dark&bg_color=00000000&color=FFB800&line=FFB800&point=FFE066&area=true&area_color=FFB80030&hide_border=true" width="100%"/>
 
-<br/>
 
-<!-- CONNECT FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:FFB80010,50:1a1a2e,100:0a0a1a&height=140&section=footer&text=LET'S%20BUILD%20SOMETHING%20INTELLIGENT&fontSize=26&fontColor=FFB800&animation=wave" width="100%"/>
-  
-  <a href="https://linkedin.com/in/lfee-deshwal"><img src="https://img.shields.io/badge/LinkedIn-Connect_Now-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>  
-  <a href="mailto:deshwallfee@gmail.com"><img src="https://img.shields.io/badge/Gmail-Drop_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>  
-  <a href="https://lfee.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-FFB800?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  
-  <br/><br/>
-  <i>Built with precision · Powered by curiosity ☕</i>
-  <br/>
-  <sub>© 2026 Lfee Deshwal. All rights reserved.</sub>
-</div>
-```
+
+
+
+
+
+\
+
+
+**Cloud & Platforms**
+
+
+
+\
+
+
+---
+
+## Featured Projects
+
+### 01. CodeLens AI
+
+**Real-Time AI Code Review Assistant**
+
+
+
+An AI-powered VS Code extension that detects security vulnerabilities and code-quality issues in real time using machine learning, heuristic analysis, and LLM-based explanations.
+
+- Developed a TextCNN model with a 50K-token vocabulary and 256-token context, achieving approximately **85% defect-detection accuracy**.
+- Integrated CodeBERT embeddings for deeper semantic analysis.
+- Built a modular FastAPI backend with caching, SQLite persistence, and REST APIs.
+- Developed a TypeScript VS Code extension with auto-scan, inline risk scores, hover tooltips, and command-palette actions.
+
+**Tech:** Python, FastAPI, PyTorch, CodeBERT, TextCNN, TypeScript, Groq API, SQLite, Docker
+
+### 02. HRMS
+
+**Enterprise Human Resource Management System**
+
+A full-stack HR management platform designed to manage payroll, recruitment, attendance, leave, performance, training, and other HR operations.
+
+- Designed a relational database with **40 tables across 14 HR domains**.
+- Developed a FastAPI backend with 17 route modules, reusable CRUD abstractions, and Pydantic v2 schemas.
+- Built a React 19 frontend with JWT authentication, Google OAuth SSO, and role-based access control.
+- Implemented reusable DataTable and Modal components with dedicated module dashboards.
+- Deployed the frontend on Vercel and backend on Render with CI/CD.
+
+**Tech:** Python, FastAPI, PostgreSQL, Supabase, React 19, Vite, JWT, Google OAuth, Vercel, Render
+
+### 03. StudyDocs RAG
+
+**AI-Powered Study Assistant**
+
+A Retrieval-Augmented Generation application that allows users to interact with study PDFs through natural-language queries, with fully offline processing on local hardware.
+
+- Built two RAG pipelines: a custom Pure Python engine and a LangChain LCEL engine.
+- Implemented sentence-aware text chunking, SentenceTransformer embeddings, and ChromaDB vector storage with HNSW indexing.
+- Integrated Ollama for local LLM inference and real-time response streaming.
+- Developed a Next.js frontend with SSE streaming, expandable source citations, engine switching, and theme customization.
+
+**Tech:** Python, FastAPI, LangChain, ChromaDB, SentenceTransformers, Ollama, Next.js 15, SSE
+
+---
+
+## Certifications
+
+- Oracle Cloud Infrastructure — AI Foundations Associate (2025)
+- Oracle Cloud Infrastructure — Generative AI Professional (2025)
+- Oracle Cloud Infrastructure — Foundations Associate (2025)
+- Coursera — Computer Communications (2024)
+
+## Achievements & Leadership
+
+- **Sponsorship & Branding Lead** — Prompt Builder 2025 (AWS Hackathon)
+- **Felicitation & Coordination Head** — Webathon
+- **External Affairs Head** — Vibranta
+- **Dance Participant** — One India One World 2025, LPU
+
+## Education
+
+**Lovely Professional University**
+B.Tech in Computer Science and Engineering
+Punjab, India | August 2023 – Present
+**CGPA: 7.43**
+
+---
+
+## GitHub Statistics
+
+\<div align="center">
+
+\<img height="160" src="[https://github-readme-stats.vercel.app/api?username=lfee123&show_icons=true&hide_border=true&theme=transparent](https://github-readme-stats.vercel.app/api?username=lfee123\&show_icons=true\&hide_border=true\&theme=transparent)" alt="GitHub Stats"/>
+
+\<img height="160" src="[https://github-readme-streak-stats.herokuapp.com/?user=lfee123&hide_border=true&theme=transparent](https://github-readme-streak-stats.herokuapp.com/?user=lfee123\&hide_border=true\&theme=transparent)" alt="GitHub Streak"/>
+
+\<img width="95%" src="[https://github-readme-activity-graph.vercel.app/graph?username=lfee123&theme=github-compact&hide_border=true](https://github-readme-activity-graph.vercel.app/graph?username=lfee123\&theme=github-compact\&hide_border=true)" alt="GitHub Activity Graph"/>
+
+\</div>
+
+---
+
+\<div align="center">
+
+### Let's Connect
+
+**Open to learning, collaboration, and building impactful technology.**
+
+
+
+\
+
+
+*Building intelligent solutions with curiosity and code.*
+
+\</div>
